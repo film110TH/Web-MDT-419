@@ -1,0 +1,23 @@
+body{
+    background-color: palegoldenrod;
+    border: 5px solid rgb(172, 9, 166);
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+}
+
+div{
+    color: rgba(255, 255, 255, 0.946);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3px solid darkblue;
+    border-radius: 10%;
+    text-align: left;
+    width: fit-content;
+    background-color: rgb(151, 54, 208);
+    padding-left: 1%;
+    padding-right: 1%;
+
+}
+
